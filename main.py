@@ -35,21 +35,6 @@ while len(guess_states) < 50:
 
 
 
-# def right_count():
-#     count = 0
-#     for i in state_list:
-#         if answer_state in i:
-#             count += 1
-#         else:
-#             answer_state
-#
-#
-#
-#
-# while game_is_on:
-#     right_count()
-#
-
 
 
 
